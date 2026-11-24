@@ -1,0 +1,15 @@
+# 版本鎖定：deepagents 更新很快、API 常變動，升級前先跑 pytest
+deepagents==0.7.41
+langchain==1.5.2
+langchain-core==1.8.4
+langchain-openai==1.8.5
+langchain-mcp-adapters==0.3.2
+langgraph==1.2.24
+mcp==1.30.0
+kubernetes==37.0.3
+pydantic==2.14.4
+python-dotenv==1.2.4
+
+# 測試
+pytest==9.2.0
+pytest-asyncio==1.5.0
